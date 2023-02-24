@@ -1,0 +1,67 @@
+---
+title: "Hinweise zur Nutzung von KI Tools"
+date: "`r Sys.Date()`"
+author: "Karsten Lübke"
+format: pdf
+documentclass: article
+classoption: a4paper
+lang: de
+---
+
+## Vorbemerkungen
+
+Künstliche Intelligenz (KI) wie [ChatGPT](https://chat.openai.com/) oder [Midjourney](https://www.midjourney.com/) o.ä. Tools bieten viele Möglichkeiten -- auch für Ihr Lernen.
+
+Allerdings sind damit auch Gefahren und ethische Fragestellungen verbunden.
+
+Im Rahmen der Vorlesungen dürfen Sie oder ähnliche Tools benutzen, Sie müssen sie aber nicht benutzen.
+
+Es geht um **Ihr** Lernen, **Ihr** Wissen, **Ihr** Verstehen, und dies können Sie nicht auslagern. 
+
+Fragen die im Rahmen der Vorlesung gestellt werden sollten daher nicht von Tools beantwortet werden. Durch das selbständige Schreiben von Texten können Sie Ihre Gedanken strukturieren, hinterfragen und revidieren. Bitte nutzen Sie diese Chance! Mein Job ist es Sie dabei zu unterstützen!
+
+## Eisatzmöglichkeiten
+
+Sie dürfen ChatGPT innerhalb der Vorlesung nutzen, Sie müssen es aber nicht. Mögliche Einsatzmöglichkeiten:
+
+- Kann Unterstützung bei `R` Code bieten. 
+
+- Kann als Hifstutor bei Nachfragen fungieren, die Sie sich nicht trauen offen zu stellen. Trauen Sie sich! Es ist für mich wichtig zu wissen wo Unklarheiten liegen.
+
+- Kann Ideen und Anregungen liefern.
+
+- Kann in Gruppendiskussionen ergänzende Rollen einnehmen.
+
+- Kann Sprachhürden und Schreibblockaden reduzieren.
+
+- Kann Sie dabei unterstützen, die richtigen Fragen zu stellen.
+
+- Kann Beispiele und Transfer anbieten.
+
+- Kann Inhalte für Sie zusammenfassen und umformulieren.
+
+
+## Prüfungsleistungen
+
+Ein Einsatz in der Klausur ist nicht zulässig und führt gemäß §37 der Rahmenprüfungsordnung zur Bewertung *nicht ausreichend*.
+
+Ein Einsatz zur Unterstützung im Rahmen meiner Hausarbeit ist zulässig, muss aber angegeben werden. Erfolgt diese Angabe nicht, wird dies als Täuschungsversuch gewertet. Wichtig: Diese Regel gilt experimentell und vorläufig nur für meine Hausarbeit. Bei anderen Prüfungsleistungen fragen Sie unbedingt nach den dort geltenden Regeln. 
+
+## Hinweise
+
+**Sie** sind verantwortlich:
+
+- Es ist Ihre Entscheidung ob und welche Eingaben Sie machen.
+
+- Es ist Ihre Verantwortung wie Sie mit den Ausgaben umgehen.
+
+- Glauben Sie ChatGPT o.ä. kein Wort. Hinterfragen Sie die Ausgabe. Suchen Sie Belege und Gegenargumente.
+
+- Sie lernen nichts, wenn nur die Maschine lernt.
+
+- Ihre Daten werden von Unternehmen auf ausländischen Servern gespeichert und (aus)genutzt.
+
+- Personenbeziehbare oder sensible Eingaben sind tabu.
+
+
+
