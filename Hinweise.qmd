@@ -14,7 +14,7 @@ Künstliche Intelligenz (KI) wie [ChatGPT](https://chat.openai.com/) oder [Midjo
 
 Allerdings sind damit auch Gefahren und ethische Fragestellungen verbunden.
 
-Im Rahmen der Vorlesungen dürfen Sie oder ähnliche Tools benutzen, Sie müssen sie aber nicht benutzen.
+Im Rahmen der Vorlesungen dürfen Sie ChatGPT oder ähnliche Tools benutzen, Sie müssen sie aber nicht benutzen.
 
 Es geht um **Ihr** Lernen, **Ihr** Wissen, **Ihr** Verstehen, und dies können Sie nicht auslagern. 
 
