@@ -20,13 +20,13 @@ Es geht um **Ihr** Lernen, **Ihr** Wissen, **Ihr** Verstehen, und dies können S
 
 Fragen die im Rahmen der Vorlesung gestellt werden sollten daher nicht von Tools beantwortet werden. Durch das selbständige Schreiben von Texten können Sie Ihre Gedanken strukturieren, hinterfragen und revidieren. Bitte nutzen Sie diese Chance! Mein Job ist es Sie dabei zu unterstützen!
 
-## Eisatzmöglichkeiten
+## Einsatzmöglichkeiten
 
 Sie dürfen ChatGPT innerhalb der Vorlesung nutzen, Sie müssen es aber nicht. Mögliche Einsatzmöglichkeiten:
 
 - Kann Unterstützung bei `R` Code bieten. 
 
-- Kann als Hifstutor bei Nachfragen fungieren, die Sie sich nicht trauen offen zu stellen. Trauen Sie sich! Es ist für mich wichtig zu wissen wo Unklarheiten liegen.
+- Kann als Hilfstutor bei Nachfragen fungieren, die Sie sich nicht trauen offen zu stellen. Trauen Sie sich! Es ist für mich wichtig zu wissen wo Unklarheiten liegen.
 
 - Kann Ideen und Anregungen liefern.
 
