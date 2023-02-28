@@ -40,12 +40,7 @@ Sie dürfen ChatGPT innerhalb der Vorlesung nutzen, Sie müssen es aber nicht. M
 
 - Kann Inhalte für Sie zusammenfassen und umformulieren.
 
-
-## Prüfungsleistungen
-
-Ein Einsatz in der Klausur ist nicht zulässig und führt gemäß §37 der Rahmenprüfungsordnung zur Bewertung *nicht ausreichend*.
-
-Ein Einsatz zur Unterstützung im Rahmen meiner Hausarbeit ist zulässig, muss aber angegeben werden. Erfolgt diese Angabe nicht, wird dies als Täuschungsversuch gewertet. Wichtig: Diese Regel gilt experimentell und vorläufig nur für meine Hausarbeit. Bei anderen Prüfungsleistungen fragen Sie unbedingt nach den dort geltenden Regeln. 
+In der Regel gilt: Je spezfischer Ihre Eingabe ist, desto spezifischer ist auch die Ausgabe. Manchmal können Wiederholungen und Nachfragen die Ausgabe verbessern.
 
 ## Hinweise
 
@@ -61,7 +56,11 @@ Ein Einsatz zur Unterstützung im Rahmen meiner Hausarbeit ist zulässig, muss a
 
 - Ihre Daten werden von Unternehmen auf ausländischen Servern gespeichert und (aus)genutzt.
 
-- Personenbeziehbare oder sensible Eingaben sind tabu.
+- Personenbeziehbare oder sensible Eingaben sind tabu und sind gesetzeswiedrig.
 
 
+## Prüfungsleistungen
 
+Ein Einsatz in der Klausur ist nicht zulässig und führt gemäß §37 der Rahmenprüfungsordnung zur Bewertung *nicht ausreichend*.
+
+Ein Einsatz zur Unterstützung im Rahmen meiner Hausarbeit ist zulässig, muss aber angegeben werden. Erfolgt diese Angabe nicht, wird dies als Täuschungsversuch gewertet. Wichtig: Diese Regel gilt experimentell und vorläufig nur für meine Hausarbeit. Bei anderen Prüfungsleistungen fragen Sie unbedingt nach den dort geltenden Regeln. 
