@@ -48,7 +48,7 @@ In der Regel gilt: Je spezfischer Ihre Eingabe ist, desto spezifischer ist auch 
 
 - Es ist Ihre Entscheidung ob und welche Eingaben Sie machen.
 
-- Es ist Ihre Verantwortung wie Sie mit den Ausgaben umgehen.
+- Es ist Ihre Verantwortung wie Sie mit den Ausgaben umgehen. Bedenken Sie immer mögliche Verzerrungen und Stereotype.
 
 - Glauben Sie ChatGPT o.ä. kein Wort. Hinterfragen Sie die Ausgabe. Suchen Sie Belege und Gegenargumente.
 
